@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "flet"
-version = "0.22.1"
+version = "0.22.11"
 description = "Flet for Python - easily build interactive multi-platform apps in Python"
 authors = ["Appveyor Systems Inc. <hello@flet.dev>"]
 license = "Apache-2.0"
