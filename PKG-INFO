@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: flet
-Version: 0.22.1
+Version: 0.23.2
 Summary: Flet for Python - easily build interactive multi-platform apps in Python
 License: Apache-2.0
 Author: Appveyor Systems Inc.
@@ -15,7 +15,7 @@ Classifier: Programming Language :: Python :: 3.11
 Classifier: Programming Language :: Python :: 3.12
 Requires-Dist: cookiecutter (>=2.6.0,<3.0.0)
 Requires-Dist: fastapi (>=0,<1)
-Requires-Dist: flet-runtime (==0.22.1)
+Requires-Dist: flet-runtime (==0.23.2)
 Requires-Dist: packaging (>=23.1,<24.0)
 Requires-Dist: qrcode (>=7.4.2,<8.0.0)
 Requires-Dist: uvicorn[standard] (>=0,<1)

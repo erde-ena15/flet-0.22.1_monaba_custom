@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "flet"
-version = "0.22.11"
+version = "0.23.21"
 description = "Flet for Python - easily build interactive multi-platform apps in Python"
 authors = ["Appveyor Systems Inc. <hello@flet.dev>"]
 license = "Apache-2.0"
@@ -17,7 +17,7 @@ documentation = "https://flet.dev/docs"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-flet-runtime = "0.22.1"
+flet-runtime = "0.23.2"
 watchdog = "^4.0.0"
 packaging = "^23.1"
 qrcode = "^7.4.2"
